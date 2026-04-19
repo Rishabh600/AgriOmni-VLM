@@ -1,9 +1,9 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-streamlit==1.32.0
-torch==2.3.0+cpu
-torchvision==0.18.0+cpu
-transformers==4.44.0
-Pillow==10.3.0
-numpy==1.26.4
+streamlit
+torch==2.11.0+cpu
+torchvision
+transformers
+Pillow
+numpy
 google-generativeai
-python-dotenv==1.0.1
+python-dotenv
